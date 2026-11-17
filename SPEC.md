@@ -1,10 +1,11 @@
-# <Project name>
+# Eventinator-v1.0
 
 <!-- Exercise 2. Write the non-goals first. Every acceptance criterion must be checkable in under a minute.
      Keep these headings exactly as they are: the self-checks look for them by name.
      The full target is on the course site under Resources → The course project. -->
 
 ## Project option
+Club events
 <!-- One line: lab booking, study groups, club events, or the own project the lecturer approved. -->
 
 ## Goals
